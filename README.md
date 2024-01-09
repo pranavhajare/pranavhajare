@@ -1,7 +1,5 @@
-![Header]![github-header-image (1)](https://github.com/pranavhajare/pranavhajare/assets/139987736/44c2e9ac-d5ce-4647-92b4-180047cbff39)
+![github-header-image (1)](https://github.com/pranavhajare/pranavhajare/assets/139987736/44c2e9ac-d5ce-4647-92b4-180047cbff39)
 
-<h1 align="center">Hi 👋, I'm Pranav Hajare</h1>
-<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
 <img  align="right" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"  width="400" >
 
